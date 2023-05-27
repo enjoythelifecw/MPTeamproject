@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name"></string>
+    <!-- MainActivity text -->
+    <string name="add_todo">계획 추가하기</string>
+    <!-- AddTodoActivity text -->
+    <string name="title">계획 추가</string>
+    <string name="hint_title">내용을 입력해주세요.</string>
+    <string name="importance">대략적인 시간대</string>
+    <string name="importance_low">△</string>
+    <string name="importance_middle">○</string>
+    <string name="importance_high">☆</string>
+    <string name="completion">완료</string>
+    <string name="hello_blank_fragment"></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="kakao_native_app_key">086f32a3a048cf5b570bd3c728e185da</string>
+    <!-- kakao${kakao_native_app_key} 의 구조다. -->
+    <string name="kakao_redirection_scheme">kakao086f32a3a048cf5b570bd3c728e185da</string>
+</resources>
